@@ -1,0 +1,5 @@
+port :8088
+token :93597d38-13b4-4430-a2ab-5ba14cb7d9fd
+source : log4j
+index : springboot_cassandra_index_dev	
+source name : springboot-cassandra-logs

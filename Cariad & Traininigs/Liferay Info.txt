@@ -1,0 +1,6 @@
+Docker pull Image : docker pull liferay/portal:7.4.3.47-ga47
+
+Docker Run Container : docker run -it -m 8g -p 8080:8080 liferay/portal:7.4.3.47-ga47
+
+UserName: test@liferay.com
+Password: test

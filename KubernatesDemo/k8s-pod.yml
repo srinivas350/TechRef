@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: kubernatesdemo-rs
+  labels:
+    app: kubernatesdemo
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: kubernatesdemo
+  template:
+    metadata:
+      name: kubernatesdemo
+      labels:
+        app: kubernatesdemo
+    spec:
+      containers:
+        - name: kubernatesdemo
+          image: srinivas350/kubernatesdemo
+          imagePullPolicy: IfNotPresent
+      restartPolicy: Always

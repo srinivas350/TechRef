@@ -1,0 +1,19 @@
+Api Key : ic5bsavpElDJWZQxwEisE40v4
+
+API Key Secret: jCqvKwEAONHYdNqHgqeUkzIGddzUbg0NIbJ0XKPFNqOIBi3RKJ
+
+Bearer Token : AAAAAAAAAAAAAAAAAAAAADephwEAAAAAwtUKLoO%2BKFxI4VtvFOmz%2FHT4NmY%3DUO7OCfZF15OvnsIYDfve8D3mfze9JxtqoWjVxcC3A8Ru5lQ5c6
+
+Access Token : 841186673564176384-yD1zzP7Yrz2qCSgOy5IiT6mdjpngyDv
+
+Access Token Secret : E5NcFC9XdEMLSW7mtVb6lAD6nRB3fYsLV1Jk29iVNSkQcs
+
+OAuth 2 Tokens:
+---------------
+Client ID: Q0xRb005Nkx6a01KODI0ZWVCWG46MTpjaQ
+
+Client Secret : nw3WHZF3kXjzTKKL1kMq3nG3bngHybJtE89uWb-7FUME7YYgku
+
+Client Secret : nw3WHZF3kXjzTKKL1kMq3nG3bngHybJtE89uWb-7FUME7YYgku
+
+

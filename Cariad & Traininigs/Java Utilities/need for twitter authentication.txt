@@ -1,0 +1,7 @@
+
+const collection = require('postman-collection');
+const params=collection.QueryParam.parse(pm.response.text());
+console.log(params);
+
+pm.environment.set("oauth_token", params[0].value);
+pm.environment.set("oauth_token_secret", params[1].value);

@@ -1,0 +1,7 @@
+mosquitto -v -c .\mosquitto.conf
+
+mosquitto_pub -t "sampletest" -m "HelloWorld"
+
+mosquitto_sub -t "sampletest"
+
+mosquitto_passwd -U pwfile.example

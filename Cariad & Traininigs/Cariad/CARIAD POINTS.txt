@@ -1,0 +1,19 @@
+	CARIAD (Car I am Digital)
+-----------------------------------------
+--> We had three vendors
+   1)Atos 2)Valtech (Germany) 3)MSG (Swizerland)  Some other local contractors. Both Companies are good at car connected technologies
+--> Core is essentially The applications, which, which is uh around user setup configurations, network configurations, mobile portability.
+    user validations geofencing, where the car goes,it is being tracked or it is within that region. 
+    So anything is core is more around configurations, yeah.And Mergency call user setup call center.
+    And so core plays a bigger role in the whole process.
+--> Customer had an idea about the program.
+    So customer given
+    Core like Valtech do the application development
+			 	Atos do the operations.
+    Car2X is with the local vendor MSG.
+--> Atos & Valtech or expensive. So DXC came in to the picture.
+--> There are four component or 2 Lots
+    1)Core 2) CAR2X 3)Other Services 4)Enablement Services.
+
+--> Trends to transform to automotive industry
+    1) Connect 2) Shared 3) Autonomus 4) Electric

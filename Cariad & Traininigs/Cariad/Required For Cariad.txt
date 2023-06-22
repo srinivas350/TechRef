@@ -1,0 +1,2 @@
+HiveMQ: BMW Car-Sharing application relies on HiveMQ for reliable connectivity.
+EMQ helps SAIC Volkswagen building IoV platform.

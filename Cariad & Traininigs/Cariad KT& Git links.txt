@@ -1,0 +1,28 @@
+SpringBoot OAuth2 : https://dxcportal-my.sharepoint.com/personal/mohammad_abdulla_dxc_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmohammad%5Fabdulla%5Fdxc%5Fcom%2FDocuments%2FRecordings%2FKT%20Session%20%2D%20Spring%20Security%20OAuth2%2E0%20with%20Okta%2D20221007%5F153026%2DMeeting%20Recording%2Emp4&ga=1
+SpringBoot AWS S3 : https://dxcportal-my.sharepoint.com/personal/mohammad_abdulla_dxc_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmohammad%5Fabdulla%5Fdxc%5Fcom%2FDocuments%2FRecordings%2FKT%20%2D%20Spring%20Boot%20with%20AWS%20S3%2D20221011%5F163052%2DMeeting%20Recording%2Emp4&ga=1
+SpringBoot MicreSe: https://dxcportal-my.sharepoint.com/personal/mohammad_abdulla_dxc_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmohammad%5Fabdulla%5Fdxc%5Fcom%2FDocuments%2FRecordings%2FSpringBoot%2Bmicroservice%20KT%2D20221012%5F160654%2DMeeting%20Recording%2Emp4&ga=1
+SpringBoot Kafka  : https://dxcportal-my.sharepoint.com/personal/mohammad_abdulla_dxc_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmohammad%5Fabdulla%5Fdxc%5Fcom%2FDocuments%2FRecordings%2FKT%2D%20Spring%20Boot%20with%20Kafka%2D20221013%5F153111%2DMeeting%20Recording%2Emp4&ga=1
+SpringBoot JMS    : https://dxcportal-my.sharepoint.com/personal/neha_purohit3_dxc_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fneha%5Fpurohit3%5Fdxc%5Fcom%2FDocuments%2FRecordings%2FJMS%20KT%2D20221026%5F113052%2DMeeting%20Recording%2Emp4&ga=1
+SpringBoot MQQT   : https://dxcportal-my.sharepoint.com/:v:/g/personal/neha_purohit3_dxc_com/ERUsZp3QsPhIkLmlnjrWf7gBf5eMfy8FZmtOKjkuco9cYw
+SpringBoot JUnit  : https://dxcportal-my.sharepoint.com/:v:/g/personal/namrata_asrani_dxc_com/EbKJJ0ILZ_hLm-Q0p-Xzt8gBkdsOnY8rIB1cBaTT-SAOrQ
+SpringBoot Mockito: https://dxcportal-my.sharepoint.com/:v:/g/personal/neha_purohit3_dxc_com/EYD9Jjd3GhZJkA4U-KB9OM8B8eizPc-zCFyDEM9MqufHNg
+SpringBoot Cassand: https://dxcportal-my.sharepoint.com/:v:/g/personal/mohammad_abdulla_dxc_com/EaSqm5APzsdIgLgbQFntgAABKtCoIusV6bquAswGRFFlUA
+SpringBoot Tweet  : https://dxcportal-my.sharepoint.com/:v:/g/personal/neha_purohit3_dxc_com/EWge56Vzk8pErH8pl0CyS6IBaq0dNQ1e3qElQvU-Z7Xr_A
+LifeRay Portal    : https://dxcportal-my.sharepoint.com/:v:/g/personal/mohammad_abdulla_dxc_com/EYfGUPyREQFMrqeMsVEYQ3ABXKByAqhQIAi4eIUM-wOEbw
+GitHub Urls:
+------------
+SpringBoot OAuth2 :1) https://github.com/abdulla861/KTSecurityOAuth2ApiAccess.git
+		   2)https://github.com/abdulla861/KTSessionSecurityOAuth2.git
+SpringBoot AWS S3 : https://github.com/abdulla861/AppDemoKTAWSS3.git
+SpringBoot Microse:1)https://github.com/NehaP45/eurekaServer
+		   2)https://github.com/NehaP45/DemoMicroservice
+		   3)https://github.com/NehaP45/studentMicroService
+SpringBoot Kafka  :https://github.com/srinivas350/KafkaDemo.git
+SpringBoot JMS    :1)https://github.com/NehaP45/P2PJms
+		   2)https://github.com/NehaP45/PubSub
+		   3)https://github.com/NehaP45/messageFiltering
+		   4)https://github.com/NehaP45/springJMS
+SpringBoot MQQT   :https://github.com/NehaP45/mqqtDemo
+SpringBoot Mockito:https://github.com/NehaP45/MockitoKT
+SpringBoot Cassand:https://github.com/abdulla861/DemoCRUDCassandraApp.git
+SpringBoot Tweet  :https://github.com/NehaP45/twitter-springboot

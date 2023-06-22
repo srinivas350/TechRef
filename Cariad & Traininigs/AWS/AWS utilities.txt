@@ -1,0 +1,4 @@
+Access-key : AKIASI7G4DTGEV5SMI5B
+Access-Secret: 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
+AWS -Region : ap-south-1
+Bucket Name : springboots3demo

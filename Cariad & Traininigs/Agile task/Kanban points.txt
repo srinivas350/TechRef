@@ -1,0 +1,87 @@
+Kanban is japanes word
+It means a bill board or information board.
+It is a work flow management to define, manage,improve services to deliver work.
+It helps on visualize work,maximize efficiency & improve continuosly
+It is started with Originating from manufacturing now it improved Agile software development teams
+It is using across various industries
+
+1)Visualize the WorkFlow:
+ In order for the visualization to be the most effective, it should show -
+ --> Where in the process a team working on a service agrees to do a specific work item.
+ --> Where the team delivers the work item to a customer.
+ --> Policies that determine what work should exist in a particular stage.
+ --> Work in Progress limits(WIP)
+2) Limit Work in Progress(WIP):
+  And use those limits to guide when to start new items.
+  It will tell when to start new work.First need to complete current work and then goto next work item.
+ --> Smooth out the flow of Work
+ --> Reduce lead times
+ --> Improve Quality
+ --> Delive more frequently
+3) Manage Flow:
+  A kanban system help you work flow by highlighting the various stages of work flow and status of the work in each stage.
+  It helps your team to analyze the system and make adjustment to improve work flow and time it takes to complete each piece of work
+  Flow of work in service will
+  --> Maximize value delivery
+  --> Minimize lead times
+  --> As predictable as possible
+  Team use empirical control through transperency,insepection and in order to balanceing these pottential goals.
+  Key aspect of managing flow is identifing and addressing blockers.
+4) Make process Policies Explicit:
+  you can't improve something you don't understand.
+  There for your process could be clearly defined published and socialized
+  People would not associate and take part in something they do not believe would be useful.
+  When every one is familiour with common goals they would be able to work and make decessions regaring positive impact.
+  Distributed,Visible,Well-defined,Subject to change,work policies has power to boost people self orgnaization.
+5) Take feedback:
+  Take feed back at the end of the day. The most important entity for any business is the Client.
+  So implement an effective feedback system is extremly important.
+  The idea of getting feedback early,expecially you are on the wrong track with your work is crussial to deliver the right work.
+  The right product or service to customer in shortest possible time.Feed back loops are critical to ensuring that.
+6) Improve collaboratively, evolve experimentally:
+   The way to achieve continious improvement and sustainable change with in an organization is through collaboratively implementing changes based on 
+   Scientifically proven methods,feedback & metrics.
+   Cultivating and organizational culture where every hypothesis is proven to have positive or negative results is crussial for developing mindset focus on improvment through evolutionary change
+		Benfites of Kanban
+               =====================
+1)Identifying issues:
+  Important practise of kanban is to limit the work in progress.
+  Setting work in progress to you team highlight any barriers in your improvment process.
+  Which could be because of lack of focus resources or techniques.
+2) Flexibility:
+  Unlike other frameworks Kanban isn't restrictive.
+  There are no definite phase durations & prefereneces are based on the most recent data.
+  These makes it fit for teams & any organizations to use a kanban board to Collabarate document work & track the work progress.
+3) It can save time :
+  As part of agile practise implementing kanban board will allow you your team to improve throught the developement process.
+  By using shared visul maanagement tool each team member can see all activites in the project process and any issues appear the transparency to be fixed quickly.
+  These negatively allow enough time and resources to free to continue providing a high-quality product or service.
+4) It Empowers teams:
+  Every team member involved in the project can access kanban board every one shared responsibility to ensure work smooth along the board property.
+  And eventully reach the done column.
+  Having these type of responsibilites with team members can faster communication and collaboration builds.
+5) Balance Productivity:
+  By sticking to the basic practise of Kanban limiting the amount of work in progress can keep work as consuming time on menial tasks.
+  The visualization of workflow can ensure even streams of productivity.
+6) Increased Customer Satisfacation :
+   The origin of the Kanban method _ The pull system it is based on implies that work done when there is a demand.
+   By introducing work in progress limits to the process you will ensure that the end result is fine-tuned to your customers expectations
+Little's Law 5 Assumptions:
+---------------------------
+Measuring units for the three mattresses in the formula should be consistent.
+
+Average arrival rate should be equal to the average departure rate throughput.
+
+WIP should be almost the same at the beginning and at the end of the chosen interval.
+
+All work that will enters the process will also exit the process 
+
+Average age of WIP should remain the same.
+
+Cumulative Flow Diagrom:
+---------------------------
+--> Tracks progress for Agile Teams.
+--> Shows state of WIP & Project pace.
+--> Help Identify potential risks & bottlenecks to be on track.
+--> Help identify lead time, Cycle time, Throughput & Work in progress.
+

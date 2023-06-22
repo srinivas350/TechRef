@@ -1,0 +1,11 @@
+Docker Commands :
+-------------
+1) docker build -t {Image Name} --> Build Docker Image
+2) docker run -d -p docPort:appPort Image Name  --> Create Docker Container
+3) docker rmi Image Name  --> Remove Docker Image
+4) docker rm containerName --> Remove Docker Container
+5) docker login -u docker username --> To connect Docker Hub
+   Need to enter password 
+6) docker tag oldTag newTag
+7) docker push username/ImageName  --> To push Image to Docker Hub
+8) docker logs containerName  --> Docker Logs

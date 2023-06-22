@@ -1,0 +1,10 @@
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+
+.\bin\windows\kafka-topics.bat --create --topic twitter-topic --bootstrap-server localhost:9092 --replication-factor 1 --partitions 6   --> For Creating Topic from CMD
+
+.\bin\windows\kafka-console-consumer -bootstrap-server localhost:9092 -topic <topic_name>  --> For Console Consumer
+
+.\bin\windows\kafka-console-producer -bootstrap-server localhost:9092 -topic <topic_name>  --> For Console Producer
+
+.\bin\windows\kafka-console-consumer.bat -bootstrap-server 127.0.0.1:9092 -topic myfirst -from-beginning   --> Read Complete Message

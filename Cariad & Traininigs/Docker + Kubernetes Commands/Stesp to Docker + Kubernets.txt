@@ -1,0 +1,25 @@
+Step1 --> Create a Normal Spring Boot Application
+
+Step2 --> Create A Docker File in Application ( Docker Image)
+
+Step3 --> Install Docker Desktop in Local
+
+Step4 --> Connect to Docker using Built Command create Docker Image
+
+Step5 --> Create Container using Run Command
+
+Step6 --> Push Docker image to Docker Hub
+
+Step7  --> Create pod.yml && service.yml
+
+Step8 --> Install Kubectl in Local && Create Digital Ocean or MiniQube Account
+
+Step9 --> Create Kubernetes Cluster and Download Config file
+
+Step10 --> Create .kube in users directory and place the config file
+
+Step11 --> Connect to from kubectl and create namespace
+
+Step12 --> Create pod and service it will creates Container
+           
+           Test your Application
